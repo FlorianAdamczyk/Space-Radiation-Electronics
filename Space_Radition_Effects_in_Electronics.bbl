@@ -1,0 +1,192 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{atomicarchive_fishbowl_1962}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7eac5eb1950282f3afa95fc7bd56a925}{%
+           family={{Atomic Archive}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{7eac5eb1950282f3afa95fc7bd56a925}
+      \strng{fullhash}{7eac5eb1950282f3afa95fc7bd56a925}
+      \strng{fullhashraw}{7eac5eb1950282f3afa95fc7bd56a925}
+      \strng{bibnamehash}{7eac5eb1950282f3afa95fc7bd56a925}
+      \strng{authorbibnamehash}{7eac5eb1950282f3afa95fc7bd56a925}
+      \strng{authornamehash}{7eac5eb1950282f3afa95fc7bd56a925}
+      \strng{authorfullhash}{7eac5eb1950282f3afa95fc7bd56a925}
+      \strng{authorfullhashraw}{7eac5eb1950282f3afa95fc7bd56a925}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{AtomicArchive.com}
+      \field{note}{Yield: 1.4 Megatons; Location: Johnston Island area — high altitude (tens of miles); Event date: July 9, 1962. Accessed 2025-11-27}
+      \field{title}{Operation Fishbowl | Starfish Prime (1962)}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.atomicarchive.com/media/photographs/testing/us/fishbowl/fishbowl-8.html
+      \endverb
+      \verb{url}
+      \verb https://www.atomicarchive.com/media/photographs/testing/us/fishbowl/fishbowl-8.html
+      \endverb
+    \endentry
+    \entry{calligaro_gatti_2018_rad-hard}{book}{}{}
+      \name{editor}{2}{}{%
+        {{un=0,uniquepart=base,hash=70642cf7d08acead9754d49bb6713e9b}{%
+           family={Calligaro},
+           familyi={C\bibinitperiod},
+           given={Cristiano},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d1b26e573845482b092dce631dc3d849}{%
+           family={Gatti},
+           familyi={G\bibinitperiod},
+           given={Umberto},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Gistrup, Denmark}%
+      }
+      \list{publisher}{1}{%
+        {River Publishers / ProQuest}%
+      }
+      \strng{namehash}{6f1d7bdf0b3b0de711700263a875d553}
+      \strng{fullhash}{6f1d7bdf0b3b0de711700263a875d553}
+      \strng{fullhashraw}{6f1d7bdf0b3b0de711700263a875d553}
+      \strng{bibnamehash}{6f1d7bdf0b3b0de711700263a875d553}
+      \strng{editorbibnamehash}{6f1d7bdf0b3b0de711700263a875d553}
+      \strng{editornamehash}{6f1d7bdf0b3b0de711700263a875d553}
+      \strng{editorfullhash}{6f1d7bdf0b3b0de711700263a875d553}
+      \strng{editorfullhashraw}{6f1d7bdf0b3b0de711700263a875d553}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9788770220200}
+      \field{month}{11}
+      \field{note}{Available: November 2018}
+      \field{series}{River Publishers Series in Electronic Materials and Devices}
+      \field{title}{Rad-hard semiconductor memories}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{delta_rocket_telstar1_46898}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ffaddb909ecbd12e929ee4870241b97a}{%
+           family={{Gemeinfrei}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{ffaddb909ecbd12e929ee4870241b97a}
+      \strng{fullhash}{ffaddb909ecbd12e929ee4870241b97a}
+      \strng{fullhashraw}{ffaddb909ecbd12e929ee4870241b97a}
+      \strng{bibnamehash}{ffaddb909ecbd12e929ee4870241b97a}
+      \strng{authorbibnamehash}{ffaddb909ecbd12e929ee4870241b97a}
+      \strng{authornamehash}{ffaddb909ecbd12e929ee4870241b97a}
+      \strng{authorfullhash}{ffaddb909ecbd12e929ee4870241b97a}
+      \strng{authorfullhashraw}{ffaddb909ecbd12e929ee4870241b97a}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Wikimedia Commons}
+      \field{note}{Public domain. Accessed 2025-11-27}
+      \field{title}{Datei:Delta Rocket Telstar1.jpg}
+      \verb{urlraw}
+      \verb https://commons.wikimedia.org/w/index.php?curid=46898
+      \endverb
+      \verb{url}
+      \verb https://commons.wikimedia.org/w/index.php?curid=46898
+      \endverb
+    \endentry
+    \entry{salzburgernachrichten_2022_telstar}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9c2ec9aee270fba91059ec32fce61233}{%
+           family={{Salzburger Nachrichten}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c2ec9aee270fba91059ec32fce61233}
+      \strng{fullhash}{9c2ec9aee270fba91059ec32fce61233}
+      \strng{fullhashraw}{9c2ec9aee270fba91059ec32fce61233}
+      \strng{bibnamehash}{9c2ec9aee270fba91059ec32fce61233}
+      \strng{authorbibnamehash}{9c2ec9aee270fba91059ec32fce61233}
+      \strng{authornamehash}{9c2ec9aee270fba91059ec32fce61233}
+      \strng{authorfullhash}{9c2ec9aee270fba91059ec32fce61233}
+      \strng{authorfullhashraw}{9c2ec9aee270fba91059ec32fce61233}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Salzburger Nachrichten}
+      \field{month}{7}
+      \field{note}{Accessed 2025-11-27}
+      \field{title}{Vor 60 Jahren flog der erste US-Satellit in das All}
+      \field{year}{2022}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.sn.at/panorama/wissen/vor-60-jahren-flog-der-erste-us-satellit-in-das-all-124799707
+      \endverb
+      \verb{url}
+      \verb https://www.sn.at/panorama/wissen/vor-60-jahren-flog-der-erste-us-satellit-in-das-all-124799707
+      \endverb
+    \endentry
+    \entry{adobe_174965630_2025}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=43c99762c6a1e442b6de54ecc4651f60}{%
+           family={{SN/GFDUNT (Adobe Stock)}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{43c99762c6a1e442b6de54ecc4651f60}
+      \strng{fullhash}{43c99762c6a1e442b6de54ecc4651f60}
+      \strng{fullhashraw}{43c99762c6a1e442b6de54ecc4651f60}
+      \strng{bibnamehash}{43c99762c6a1e442b6de54ecc4651f60}
+      \strng{authorbibnamehash}{43c99762c6a1e442b6de54ecc4651f60}
+      \strng{authornamehash}{43c99762c6a1e442b6de54ecc4651f60}
+      \strng{authorfullhash}{43c99762c6a1e442b6de54ecc4651f60}
+      \strng{authorfullhashraw}{43c99762c6a1e442b6de54ecc4651f60}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Adobe Stock (Stock-Illustration)}
+      \field{note}{File no.: 174965630. Accessed 2025-11-27}
+      \field{title}{Telstar 1 - the World's First Transatlantic Broadcast Satellite, Launched in 1962}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://stock.adobe.com/de/images/telstar-1-the-world-s-first-transatlantic-broadcast-satellite-launched-in-1962/174965630?prev_url=detail
+      \endverb
+      \verb{url}
+      \verb https://stock.adobe.com/de/images/telstar-1-the-world-s-first-transatlantic-broadcast-satellite-launched-in-1962/174965630?prev_url=detail
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
