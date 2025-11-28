@@ -7,16 +7,66 @@
   * aber wie kam es dazu? Und damit Wilkommen: (...)
 *   **Titel & Übersicht:** Begrüßung und Agenda.
 
-*   **Klassifikation der Strahlungseffekte:** Unterscheidung zwischen **kumulativen Effekten** (TID/DDD, langfristig, leistungsmindernd) und **Single Event Effects (SEE)** (spontan, nicht-zerstörerisch/zerstörerisch).
-*   **Fokus:** Klarstellung, dass die Präsentation die kumulativen TID-Effekte detailliert behandeln wird.
+**Folie 3: Einordnung der Strahlungseffekte**
 
-### 2. Die Weltraum-Strahlenumgebung als TID-Quelle (ca. 3 Minuten)
+**Auf der Folie (Stichpunkte/Grafik):**
+* Tabelle: **Kumulative Effekte vs. Single Event Effects**
 
-*   **Quellen ionisierender Strahlung:** Kurze Nennung der Hauptquellen (Sonne, GCR, Trapped Particles).
-*   **Relevanz für TID:** Konzentrieren Sie sich darauf, warum die Umgebung TID-relevant ist.
-    *   Protonen und Elektronen (dominante leichte Partikel) stammen hauptsächlich aus dem Sonnenwind und den Van-Allen-Gürteln (innere/äußere Gürtel).
-    *   **Betonung:** Die Umgebung (insbesondere die Van-Allen-Gürtel und die Südatlantische Anomalie SAA) ist durch leichte Teilchen (Protonen, Elektronen) gekennzeichnet, welche primär das Problem der Gesamtionisationsdosis (TID) aufwerfen.
+  | Kategorie              | Beispiele            | Zeitverhalten              | Typische Folgen                      |
+  |------------------------|----------------------|----------------------------|--------------------------------------|
+  | Kumulative Effekte     | **TID**, DDD         | langsam, dosisabhängig     | Parameterverschiebung, Degradation  |
+  | Single Event Effects   | SEU, SEL, SEB, SEGR  | Einzelereignisse, spontan | Bitflips, Latchup, Zerstörung       |
 
+* Stichpunkte:
+  * **TID/DDD**: Dosis akkumuliert → Bauteil driftet aus Spezifikation
+  * **SEE**: Einzelne Partikel → unmittelbare, oft sporadische Fehler
+  * Fokus dieser Präsentation: **TID** in MOS- und integrierten Bauteilen
+
+**Sprechertext:**
+„Strahlungseffekte in Elektronik lassen sich grob in zwei Klassen einteilen. Erstens die kumulativen Effekte: Total Ionizing Dose und Displacement Damage. Hier zählt die aufsummierte Dosis – Parameter wie die Schwellenspannung verschieben sich langsam, bis das Bauteil nicht mehr innerhalb der Spezifikation arbeitet. Zweitens die Single Event Effects: einzelne Partikel können spontan Bitflips oder sogar destruktive Ereignisse wie Latchup auslösen. Heute konzentrieren wir uns auf die TID, also die kumulative Wirkung der Ionisation, weil genau das der zentrale Ausfallmechanismus bei Telstar 1 war.“
+
+---
+
+### 2. Die Weltraum-Strahlenumgebung als TID-Quelle
+
+**Folie 4: Strahlungsquellen im Weltraum (Überblick)**
+
+**Auf der Folie (Stichpunkte/Grafik):**
+* Diagramm: schematische Erde mit:
+  * **innerem/äußerem Van-Allen-Gürtel**
+  * **Südatlantischer Anomalie (SAA)**
+  * Hinweis auf **solare Ereignisse** und **galaktische kosmische Strahlung (GCR)**
+* Stichpunkte:
+  * **Quellen:**
+    * Sonne: solare Protonenereignisse, solare Teilchenstrahlung
+    * **Van-Allen-Gürtel**: gefangene Protonen & Elektronen
+    * **GCR**: hochenergetische schwere Ionen (geringer Fluss)
+  * Relevanz für TID:
+    * **Elektronen & Protonen** → dominanter Beitrag zur TID
+    * Photonen/sekundäre Elektronen → ergänzender Beitrag
+
+**Sprechertext:**
+„Die Strahlungsumgebung im Orbit wird im Wesentlichen von drei Quellen bestimmt: von der Sonne mit ihren solaren Protonenereignissen, von den Van-Allen-Gürteln mit gefangenen Protonen und Elektronen sowie von der galaktischen kosmischen Strahlung aus dem interstellaren Raum. Für die Total Ionizing Dose sind vor allem Elektronen und Protonen relevant, da sie langfristig Ladung in den Oxiden unserer Bauteile erzeugen. Photonen und sekundäre Elektronen tragen ebenfalls bei, aber die Van-Allen-Gürtel und besonders die Südatlantische Anomalie sind für einen LEO-Satelliten meist die dominanten TID-Quellen.“
+
+---
+
+**Folie 5: Van-Allen-Gürtel & SAA als TID-Hotspots**
+
+**Auf der Folie (Stichpunkte/Grafik):**
+* Karte: Projektion der **Südatlantischen Anomalie** über Südamerika/Atlantik
+* Schematische Dichteverteilung:
+  * innerer Gürtel: **Protonen-dominant**
+  * äußerer Gürtel: **Elektronen-dominant**
+* Stichpunkte:
+  * SAA: lokaler **Erdmagnetfeld-Einbruch**
+  * Erhöhte Flüsse von **MeV-Protonen und -Elektronen**
+  * Satelliten in **LEO**: wiederholte Durchflüge → **Dosis akkumuliert**
+  * Typisch: TID über Missionsdauer **10–100 krad(Si)** (missionsabhängig)
+
+**Sprechertext:**
+„Die Van-Allen-Gürtel sind keine homogene Schicht um die Erde, sondern haben lokale Besonderheiten. Besonders kritisch ist die Südatlantische Anomalie, wo das Magnetfeld geschwächt ist und der innere Protonengürtel viel näher an die Erde heranreicht. Satelliten in niedrigen Orbits durchqueren diese Region regelmäßig, bekommen dabei erhöhte Flußraten von MeV-Protonen und -Elektronen ab und sammeln so über Monate und Jahre eine beträchtliche Totaldosis. Je nach Orbit und Abschirmung liegen wir hier schnell im Bereich von zig krad in Silizium.“
+
+---
 
 ### **3. Der TID-Mechanismus im MOS-Transistor – vom Strahlungstreffer zur Ladungsakkumulation**
 
@@ -66,7 +116,7 @@ Im NMOS bedeutet das, dass sich das elektrische Feld, das zur Kanalbildung nöti
 
 ---
 
-### **3.5 Interface States – die zweite zentrale TID-Komponente** 
+<!-- ### **3.5 Interface States – die zweite zentrale TID-Komponente** 
 **(optional)**
 
 #### **Abbildung:**
@@ -114,7 +164,7 @@ Das Besondere: Interface Traps wirken oft **entgegengesetzt zur Oxidladung**. Be
 
 Beide Effekte kumulieren über die Lebensdauer, und am Ende driftet das Gerät aus der Spezifikation – das ist im Kern die Total Ionizing Dose (TID).“
 
----
+--- -->
 
 
 ### **4. Gesamtwirkung im MOSFET**
@@ -129,33 +179,137 @@ Schematische I-V-Kurven eines nMOS vor und nach TID-Belastung:
 **Stichpunkte auf der Folie:**
 
 * Positive Oxidladung → **V_th sinkt (nMOS)**
-* (Interface-States → Subthreshold-Slope verschlechtert)
 * Kanal wird früher leitend
 * Mehr Leckstrom
 * Bei pMOS ist das Vorzeichen der Effekte oft umgekehrt
 
-**Sprechernotizen:**
-„In einem n-MOSFET führen positive Ladungen im Oxid dazu, dass das Gate weniger Spannung braucht, um den Kanal in Leitfähigkeit zu versetzen. Die Schwellenspannung sinkt. Der Transistor leitet also zu früh – oder schaltet nicht mehr richtig aus.
-(Zusätzlich stören Interface-States den Subthreshold-Bereich und erhöhen Leckströme.)
-Bei pMOS-Bauteilen ist das Vorzeichen oft umgekehrt.
-Das Endergebnis: der Transistor verhält sich immer weniger so, wie er ursprünglich designed wurde – bis das Bauteil nicht mehr zuverlässig ist.“
+**Sprechertext:**
+„Wenn wir die I–V-Kennlinien eines nMOS vor und nach einer hohen Totaldosis vergleichen, sehen wir drei Merkmale: Die Schwellenspannung ist nach links verschoben – der Transistor schaltet früher durch. Und der Leckstrom im Sperrbereich ist deutlich erhöht. Bei pMOS-Transistoren ist die Situation qualitativ ähnlich, aber mit umgekehrten Vorzeichen bei der Schwellenspannungsverschiebung.“
+
+---
+
+**Folie 13: Funktionale Konsequenzen in Schaltungen**
+
+**Auf der Folie (Stichpunkte/Grafik):**
+* Schema: Inverter oder einfaches CMOS-Gatter:
+  * Vor TID: **saubere Logikpegel**
+  * Nach TID: **schlechter Noise-Margin**, verschobene Pegel
+* Stichpunkte:
+  * V\_th-Drift → **Timing-Änderungen**, langsamere Schaltzeiten
+  * Erhöhter Leckstrom → **höherer Ruhestrom**, Wärmeentwicklung
+  * Mismatch in **Analogschaltungen**:
+    * Offsetspannungen
+    * Verstärkungsänderungen
+  * Langfristig: **Drift aus Spezifikation**, Funktionsausfall
+
+**Sprechertext:**
+„Die beschriebenen Parameteränderungen übersetzen sich auf Schaltungsebene direkt in funktionale Probleme. In digitalen Schaltungen können verschobene Schwellenspannungen und erhöhte Leckströme dazu führen, dass Timing-Margen nicht mehr eingehalten werden oder Ruheströme kritisch ansteigen. In analogen Schaltungen verschieben sich Verstärkungen, Offsets und Rauschverhalten. Über die Lebensdauer hinweg driftet das Bauteil so weit aus der Spezifikation, dass es seine Aufgabe im System nicht mehr zuverlässig erfüllen kann – genau das ist das Wesen des TID-Schadens.“
+
+---
+
+### 5. TID-Härtungstests und Qualifikationsverfahren (RHA)
+
+**Folie 14: Warum TID-Tests? – RHA-Kontext**
+
+**Auf der Folie (Stichpunkte/Grafik):**
+* Stichpunkte:
+  * **COTS-Bauteile** meist nicht für Raumstrahlung entwickelt
+  * **Radiation Hardness Assurance (RHA)**:
+    * Nachweis, dass Bauteile unter Missionsdosis funktionieren
+  * TID ist eines der **ersten Screening-Kriterien**
+  * Zielgrößen:
+    * **ΔV\_th**, Verstärkung, Leckströme
+    * Funktionsgrenzen (LOGIC „0/1“, analoge Spezifikationen)
+* Grafik:
+  * Blockdiagramm: **Missionsanalyse → Dosisabschätzung → TID-Testniveau → Qualifikation**
+
+**Sprechertext:**
+„Bevor man ein Bauteil in einen Satelliten baut, muss klar sein, ob es die erwartete Strahlungsumgebung übersteht. Die Radiation Hardness Assurance beschreibt den Prozess, mit dem wir das absichern. TID ist dabei ein sehr grundlegendes Kriterium, weil es nahezu alle Technologien betrifft. Wir schätzen zunächst die Missionsdosis im Orbit ab, legen daraus ein Testdosisniveau mit Sicherheitsmarge fest und überprüfen dann, ob die relevanten elektrischen Parameter und die Funktion des Bauteils innerhalb dieser Dosis im zulässigen Rahmen bleiben.“
+
+---
+
+**Folie 15: TID-Testquellen & Randbedingungen**
+
+**Auf der Folie (Stichpunkte/Grafik):**
+* Stichpunkte:
+  * **Strahlungsquellen:**
+    * **Co‑60-Gammastrahler** (1.17, 1.33 MeV)
+    * **Elektronen** (E ≥ 1 MeV)
+  * Gründe für diese Quellen:
+    * Hohe **Penetration** → homogene Dosis im Bauteil
+    * Geringe **Displacement Damage**-Komponente
+  * **Testbedingungen** (nach ESCC 22900 u.Ä.):
+    * Raumtemperatur, Bestrahlung in Luft möglich
+    * Dosisratenbereich z. B. **36 rad/h – 180 krad/h**
+    * **Charged-Particle Equilibrium** sicherstellen
+    * Co‑60: Abschirmung ~**1,5 mm Pb + 0,7 mm Al** (Low-E-Tail-Reduktion)
+
+**Sprechertext:**
+„In der Praxis nutzt man für TID-Tests vor allem Co‑60-Gammastrahler oder Elektronenquellen mit Energien oberhalb von einem MeV. Diese Strahlung dringt tief genug in das Bauteil ein, um eine annähernd homogene Dosis in den empfindlichen Volumina zu erzeugen, ohne nennenswerte Verlagerungsschäden zu verursachen. Normen wie die ESCC 22900 geben Bereiche für die Dosisrate und konkrete Anforderungen an das Strahlungsfeld vor – zum Beispiel die Notwendigkeit, ein Gleichgewicht geladener Teilchen herzustellen und den niederenergetischen Anteil des Co‑60-Spektrums durch Blei- und Aluminiumabschirmung zu unterdrücken.“
+
+---
+
+**Folie 16: Dosisrate, ELDRS & Testablauf**
+
+**Auf der Folie (Stichpunkte/Grafik):**
+* Stichpunkte:
+  * **Dosisrate**:
+    * Einfluss auf Defektkinetik und Trapping
+    * **ELDRS**: Enhanced Low Dose Rate Sensitivity (v. a. Bipolar/BCD)
+  * Typischer **Testablauf**:
+    * Bauteil charakterisieren (**Pre-Irradiation**)
+    * Bestrahlen in **Dosisinkrementen** (z. B. 10 krad-Schritte)
+    * Nach jedem Inkrement: **messung im strahlungsfreien Zustand**
+    * Endpunkt: spezifizierte **Qualifikationsdosis** + Margin
+* Hinweis:
+  * Für TID: **keine kontinuierliche dynamische Überwachung** nötig
+  * Fokus auf **parametrische Drift** und Funktionsgrenzen
+
+**Sprechertext:**
+„Die Dosisrate ist ein kritischer Parameter im TID-Test, weil sie die zeitliche Dynamik der Defektentstehung und -heilung beeinflusst. Besonders in bipolaren Technologien kennt man den ELDRS-Effekt, bei dem das Bauteil bei niedrigen Dosisraten stärker degradiert als bei hohen. In einem typischen TID-Test vermisst man das Bauteil zunächst vor der Bestrahlung, setzt es dann in mehreren Dosisinkrementen der Strahlung aus und führt zwischen den Inkrementen im strahlungsfreien Zustand Messungen durch. So zeichnet man die parametrierte Drift als Funktion der akkumulierten Dosis nach. Eine kontinuierliche, dynamische Überwachung während der Bestrahlung ist für TID in der Regel nicht notwendig.“
+
+---
+
+### 6. Fazit
+**Folie 18: Kernaussagen & Ausblick**
+
+**Auf der Folie (Stichpunkte/Grafik):**
+* Stichpunkte:
+  * **TID** = kumulative Ionisationsschäden in Oxiden & Grenzflächen
+  * Hauptmechanismen:
+    * **Oxid-trapped charge** (positive Raumladung)
+  * Folgen:
+    * **ΔV\_th**, Mobility-Degradation, **Leckstrom↑**
+    * Drift aus Spezifikation bis zum **Funktionsverlust**
+  * **RHA/TID-Tests** sind unverzichtbar für Raumfahrt-Elektronik
+  * Historische Lehre: **Orbit- & Umweltanalyse kritisch** (Telstar 1)
+
+**Sprechertext:**
+„Die Total Ionizing Dose ist kein exotischer Randaspekt, sondern ein zentraler, kumulativer Schädigungsmechanismus in der Raumfahrtelektronik. Sie entsteht durch Ionisation im Gate-Oxid und an der Si–SiO₂-Grenze, führt über Oxid-trapped charge und Interface States zu Schwellenspannungsverschiebungen, Mobilitätsverlust und erhöhten Leckströmen und lässt Bauteile langfristig aus der Spezifikation driften. TID-Tests im Rahmen der Radiation Hardness Assurance sind deshalb ein Muss für jede ernstzunehmende Weltraummission.“
+
+---
 
 
-### 5. TID-Härtungstests und Qualifikationsverfahren (RHA) (ca. 4 Minuten)
-
-*   **RHA-Notwendigkeit:** Erklären Sie, dass COTS (Commercial-Off-the-Shelf)-Geräte getestet werden müssen, wenn sie nicht von vornherein strahlengehärtet (RadHard) sind.
-*   **Testmethodik:**
-    *   **Quellenwahl:** Tests mit Gammastrahlen (Co-60) oder Elektronen (mind. 1 MeV) aufgrund ihrer hohen Penetration und geringen Verlagerungsschäden.
-    *   **Dosisrate und ELDRS:** Erläutern Sie die Notwendigkeit, Dosisraten zu kontrollieren (36 rad/h bis 180 krad/h) und die Enhanced Low Dose Rate Sensitivity (ELDRS) zu berücksichtigen.
-    *   **Testumgebung:** Notwendigkeit des Charged-Particle Equilibrium und spezielle Abschirmung bei Co-60-Quellen zur Minderung des Niedrigenergie-Spektrums.
-    *   **Durchführung:** TID-Tests erfordern keine kontinuierliche Überwachung während der Bestrahlung.
-
-### 6. Fazit und Q&A (ca. 2 Minuten)
-
-*   **Rückführung zur Einleitung:** Aufgreifen des Beispiels von Telstar 1:
+*   **Rückführung zur Einleitung:**
     *   ...Und damit, wissen wir nun, was damals beim Telstar 1 Satellit passiert ist: 
-*   **Erklärung, warum ist Telstar 1 ausgefallen:** Zusammenfassung der wichtigsten Erkenntnisse über TID-Effekte, ihre Mechanismen, Auswirkungen und Testverfahren.
-    *   Die Ursache für das Scheitern war der sogenannte Kumulative Strahlungsschaden (TID). Hochenergetische Partikel griffen die empfindlichen Transistoren in den Kommando-Decodern des Satelliten an und zerstörten ihre Funktion.
+    *   Die Ursache für das Scheitern war der Kumulative Strahlungsschaden (TID). Hochenergetische Teilchen griffen die empfindlichen Transistoren in den Kommando-Decodern des Satelliten an und zerstörten ihre Funktion.
+    *   In den MOS-Bauteilen führte die Ansammlung positiver Oxidladung zu verschobenen Schwellenspannungen und erhöhten Leckströmen. Die Kommando-Schaltungen reagierten immer unzuverlässiger, bis der Satellit praktisch nicht mehr steuerbar war.“
 
 *   **Auflösung:** Atombombentest: Starfish Prime.
-    *  Das Drama: Obwohl Telstar 1 robust gegen die natürliche Strahlung der Van-Allen-Gürtel geschützt war, überlebte er die wahre Bedrohung nicht. Am Tag vor dem Start hatte der atomare Test Starfish Prime einen künstlichen, tödlich verstärkten Strahlungsgürtel geschaffen, der die Lebensdauer des bahnbrechenden Satelliten abrupt beendete.   
+    *  Das Drama: Obwohl Telstar 1 robust gegen die natürliche Strahlung der Van-Allen-Gürtel geschützt war, überlebte er die wahre Bedrohung nicht. Am Tag vor dem Start hatte der geheime atomare Test Starfish Prime einen künstlichen, (tödlich) verstärkten Strahlungsgürtel geschaffen, der die Lebensdauer des bahnbrechenden Satelliten abrupt beendete. 
+
+---
+
+
+
+**Folie 19: Q&A**
+
+**Auf der Folie (Stichpunkte/Grafik):**
+  * **Fragen?**
+  * Mögliche Diskussionspunkte:
+    * Unterschiede **TID vs. DDD vs. SEE**
+    * **Mitigation**: RadHard-by-Design, Shielding, Technologieauswahl
+    * Bezug zu **aktuellen Missionen** / **COTS im All**
+
+**Sprechertext:**
+„Damit bin ich am Ende der inhaltlichen Präsentation und freue mich auf Ihre Fragen. Wir können gern noch vertiefen, wie sich TID von anderen Strahlungseffekten abgrenzt, welche Design- und Technologie-Strategien es zur Härtung gibt oder wie moderne Missionen mit dem Einsatz von COTS-Bauteilen im All umgehen.“

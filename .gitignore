@@ -1,0 +1,49 @@
+# LaTeX auxiliary files
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+*.bbl
+*.blg
+*.brf
+*.run.xml
+*.fdb_latexmk
+*.synctex
+*.synctex.gz
+*.nav
+*.snm
+*.vrb
+*.idx
+*.ilg
+*.ind
+*.xdv
+*.bcf
+*.synctex(busy)
+
+# Generated output (adjust if you want to track PDFs/PS)
+*.dvi
+*.ps
+SpaceRadiationElectronics.pdf
+*.pdfsync
+
+# Minted/Pygments caches
+_minted-*/
+minted-cache/
+
+# Editor/backup/temp files often created while editing LaTeX
+*~
+*.bak
+*.tmp
+*.swp
+*.swo
+*.auxlock
+
+# Misc
+*.pyg
