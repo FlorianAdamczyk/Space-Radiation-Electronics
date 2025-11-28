@@ -7,7 +7,7 @@
   * aber wie kam es dazu? Und damit Wilkommen: (...)
 *   **Titel & Übersicht:** Begrüßung und Agenda.
 
-**Folie 3: Einordnung der Strahlungseffekte**
+## **Folie 2: Einordnung der Strahlungseffekte**
 
 **Auf der Folie (Stichpunkte/Grafik):**
 * Tabelle: **Kumulative Effekte vs. Single Event Effects**
@@ -27,9 +27,7 @@
 
 ---
 
-### 2. Die Weltraum-Strahlenumgebung als TID-Quelle
-
-**Folie 4: Strahlungsquellen im Weltraum (Überblick)**
+## **Folie 3: Strahlungsquellen im Weltraum (Überblick)**
 
 **Auf der Folie (Stichpunkte/Grafik):**
 * Diagramm: schematische Erde mit:
@@ -50,7 +48,7 @@
 
 ---
 
-**Folie 5: Van-Allen-Gürtel & SAA als TID-Hotspots**
+## **Folie 4: Van-Allen-Gürtel & SAA als TID-Hotspots**
 
 **Auf der Folie (Stichpunkte/Grafik):**
 * Karte: Projektion der **Südatlantischen Anomalie** über Südamerika/Atlantik
@@ -68,7 +66,7 @@
 
 ---
 
-### **3. Der TID-Mechanismus im MOS-Transistor – vom Strahlungstreffer zur Ladungsakkumulation**
+## **Folie 5: MOS-Querschnitt & Grundprinzip der Ionisation**
 
 #### **Abbildung (zentral):**
 
@@ -116,7 +114,7 @@ Im NMOS bedeutet das, dass sich das elektrische Feld, das zur Kanalbildung nöti
 
 ---
 
-### **4. Gesamtwirkung im MOSFET**
+## **Folie 5: Gesamtwirkung im MOSFET**
 
 **Abbildung:**
 Schematische I-V-Kurven eines nMOS vor und nach TID-Belastung:
@@ -137,7 +135,7 @@ Schematische I-V-Kurven eines nMOS vor und nach TID-Belastung:
 
 ---
 
-**Folie 13: Funktionale Konsequenzen in Schaltungen**
+## **Folie 6: Funktionale Konsequenzen in Schaltungen**
 
 **Auf der Folie (Stichpunkte/Grafik):**
 * Schema: Inverter oder einfaches CMOS-Gatter:
@@ -156,9 +154,7 @@ Schematische I-V-Kurven eines nMOS vor und nach TID-Belastung:
 
 ---
 
-### 5. TID-Härtungstests und Qualifikationsverfahren (RHA)
-
-**Folie 14: Warum TID-Tests? – RHA-Kontext**
+## **Folie 7: TID-Härtungstests und Qualifikationsverfahren (RHA)**
 
 **Auf der Folie (Stichpunkte/Grafik):**
 * Stichpunkte:
@@ -177,7 +173,7 @@ Schematische I-V-Kurven eines nMOS vor und nach TID-Belastung:
 
 ---
 
-**Folie 15: TID-Testquellen & Randbedingungen**
+## **Folie 8: TID-Testquellen & Randbedingungen**
 
 **Auf der Folie (Stichpunkte/Grafik):**
 * Stichpunkte:
@@ -198,7 +194,7 @@ Schematische I-V-Kurven eines nMOS vor und nach TID-Belastung:
 
 ---
 
-**Folie 16: Dosisrate, ELDRS & Testablauf**
+## **Folie 9: Dosisrate, ELDRS & Testablauf**
 
 **Auf der Folie (Stichpunkte/Grafik):**
 * Stichpunkte:
@@ -219,13 +215,12 @@ Schematische I-V-Kurven eines nMOS vor und nach TID-Belastung:
 
 ---
 
-### 6. Fazit
-**Folie 18: Kernaussagen & Ausblick**
+## **Folie 10: Kernaussagen & Ausblick**
 
 **Auf der Folie (Stichpunkte/Grafik):**
 * Stichpunkte:
   * **TID** = kumulative Ionisationsschäden in Oxiden & Grenzflächen
-  * Hauptmechanismen:
+  * Hauptmechanismus:
     * **Oxid-trapped charge** (positive Raumladung)
   * Folgen:
     * **ΔV\_th**, Mobility-Degradation, **Leckstrom↑**
@@ -240,7 +235,7 @@ Schematische I-V-Kurven eines nMOS vor und nach TID-Belastung:
 
 
 *   **Rückführung zur Einleitung:**
-    *   ...Und damit, wissen wir nun, was damals beim Telstar 1 Satellit passiert ist: 
+    *   ...Und damit wissen wir nun, was damals beim Telstar 1 Satellit passiert ist: 
     *   Die Ursache für das Scheitern war der Kumulative Strahlungsschaden (TID). Hochenergetische Teilchen griffen die empfindlichen Transistoren in den Kommando-Decodern des Satelliten an und zerstörten ihre Funktion.
     *   In den MOS-Bauteilen führte die Ansammlung positiver Oxidladung zu verschobenen Schwellenspannungen und erhöhten Leckströmen. Die Kommando-Schaltungen reagierten immer unzuverlässiger, bis der Satellit praktisch nicht mehr steuerbar war.“
 
@@ -250,8 +245,7 @@ Schematische I-V-Kurven eines nMOS vor und nach TID-Belastung:
 ---
 
 
-
-**Folie 19: Q&A**
+## **Q&A**
 
 **Auf der Folie (Stichpunkte/Grafik):**
   * **Fragen?**
