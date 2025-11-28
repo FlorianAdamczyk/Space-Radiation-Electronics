@@ -4,7 +4,14 @@ Delta Rocket telstar 1: delta_rocket_telstar1_46898
 Telstar 1: adobe_174965630_2025 & salzburgernachrichten_2022_telstar
 p027c61m: bbc_2024_first_live_telstar
 Fishbowl-Starfish-Prime: atomicarchive_fishbowl_1962
-South Atlantic Anomaly: calligaro_gatti_2018_rad-hard
+
+SouthAtlanticAnomaly: calligaro_gatti_2018_rad-hard
+South_Atlantic_Anomaly_2025_compared_to_2014.jpg: esa_saa_2025
 Van_Allen_radiation_belt.svg.png: booyabazooka_van_allen_1715297
 transistor_h-e_upscayl_4x_digital-art-4x.png: Sanchez_Esqueda_2015_compact_modeling_TID
-Effects On Transistor_upscayl_5x_digital-art-4x.png: 7776909
+EffectsOnTransistor_upscayl_5x_digital-art-4x.png: 7776909
+
+Space_radiation_ESA.jpg: hearts_challenges_2025 & 10843774
+RadEnv.png: triumf_radiation_environments_2021
+Rad-Hard-1200x675_upscayl_3x_ultramix-balanced-4x.png: calebnstxl_2022_strengthening_reliability
+image-4_upscayl_2x_digital-art-4x.png: esa_radiation_rangers_2024
