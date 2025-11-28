@@ -116,57 +116,6 @@ Im NMOS bedeutet das, dass sich das elektrische Feld, das zur Kanalbildung nöti
 
 ---
 
-<!-- ### **3.5 Interface States – die zweite zentrale TID-Komponente** 
-**(optional)**
-
-#### **Abbildung:**
-
-Detailzoom der Si–SiO₂-Grenzfläche:
-
-* Grenzfläche mit kleinen „Knoten“ oder „dangling bonds“
-* Beschriftung: „Pb-Zentren (Pb0, Pb1)“
-* Ladung kann je nach Gate-Bias positiv / negativ / neutral sein
-* Pfeile:
-
-  * „erhöhte Rekombination“
-  * „Mobility Degradation“
-  * „Subthreshold Slope schlechter“
-
-
-#### **Stichpunkte auf der Folie:**
-
-* **Erzeugung von Interface States (Pb-Zentren) an der Si–SiO₂-Grenze**
-
-  * durch strahlungsinduzierte chemische Umstrukturierung
-  * wirken als energienahe Traps → können Elektronen ODER Löcher fangen
-* **Bias-Anhängigkeit:**
-
-  * positive, negative oder neutrale Ladungszustände je nach Gate-Spannung
-* **Elektrische Auswirkungen:**
-
-  * verschlechtern die Beweglichkeit im Kanal (mobility degradation)
-  * erhöhen den Subthreshold Slope
-  * verstärken Leckströme
-  * führen zu zusätzlicher V_th-Verschiebung (oft in Gegenrichtung zu Oxidladung)
-* **Gesamtergebnis:**
-
-  * langfristige, kumulative Degradation
-  * Funktionsgrenzen verschieben sich → **Bauteil driftet aus Spezifikation**
-
-
-#### **Sprechernotizen:**
-
-„Neben der Oxidladung gibt es einen zweiten wichtigen Effekt: *Interface States*. Diese entstehen genau an der Grenze zwischen Silizium und Siliziumdioxid. Strahlung bricht dort Si–H-Bindungen auf und erzeugt sogenannte **Pb-Zentren** – das sind ungesättigte Siliziumbindungen.
-
-Diese Zentren können Elektronen oder Löcher einfangen, abhängig von der Gate-Spannung. Dadurch beeinflussen sie die Kanalqualität direkt: Sie verschlechtern die Beweglichkeit der Ladungsträger, erhöhen die Subthreshold Steilheit und fügen der Threshold-Spannung eine weitere, biasabhängige Verschiebung hinzu.
-
-Das Besondere: Interface Traps wirken oft **entgegengesetzt zur Oxidladung**. Bei NMOS etwa kann Oxidladung V_th stark nach unten verschieben, während Interface-Traps etwas davon wieder nach oben drücken.
-
-Beide Effekte kumulieren über die Lebensdauer, und am Ende driftet das Gerät aus der Spezifikation – das ist im Kern die Total Ionizing Dose (TID).“
-
---- -->
-
-
 ### **4. Gesamtwirkung im MOSFET**
 
 **Abbildung:**
