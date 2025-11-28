@@ -1,11 +1,16 @@
 \documentclass[aspectratio=169]{beamer} % 16:9 aspect ratio for modern screen
-% \documentclass[handout]{beamer}
+% \documentclass[aspectratio=169, handout]{beamer}
 % \documentclass[notes=only]{beamer}
+% \setbeamertemplate{note page}[plain]
+\usepackage{pgfpages}
 
 % Theme settings
 \usetheme[progressbar=foot]{metropolis} % Minimalist theme
 \metroset{progressbar=frametitle} % Progress bar soll nur folien mit titel berücksichtigtigen?
 \setbeamercolor{background canvas}{bg=white} % White background color
+
+% \setbeameroption{show notes}
+% \pgfpagesuselayout{2 on 1}[a4paper,border shrink=5mm]
 
 \makeatletter
     \setlength{\metropolis@progressinheadfoot@linewidth}{1.5pt}
@@ -131,7 +136,8 @@ Themavergabe und Betreuer: \textbf{Dr. Roman Bergert}}
     \end{frame}
    
     %Inhaltsfolie
-    \begin{frame}{Gliederung}
+    \begin{frame}[plain]{Gliederung}
+      \vspace{0.3cm}
       \tableofcontents
       \setcounter{page}{1} % Seitenzähler auf 1 setzen nach Inhaltsfolie
     \end{frame}
@@ -164,9 +170,7 @@ Themavergabe und Betreuer: \textbf{Dr. Roman Bergert}}
         \centering
         \includegraphics[height=\textheight]{RadEnv.png}\\[-3mm]
         \tiny \textcolor{gray} {\citeauthor{triumf_radiation_environments_2021} -- \citetitle{triumf_radiation_environments_2021}}
-      
       \end{figure}
-      
       \note{}   
     \end{frame}
 
@@ -234,14 +238,14 @@ Themavergabe und Betreuer: \textbf{Dr. Roman Bergert}}
             \item \textbf{Drift im elektrischen Feld:}
               \begin{itemize}
                 \small
-                \item Elektronen: hohe Mobilität $\Rightarrow$ fliehen schnell
-                \item \textbf{Löcher}: sehr geringe Mobilität $\Rightarrow$ werden eingefangen
+                \item Elektronen: hohe Mobilität \\ $\Rightarrow$ fliehen schnell
+                \item \textbf{Löcher}: sehr geringe Mobilität \\ $\Rightarrow$ werden eingefangen
               \end{itemize}
             \item \textbf{Defektstellen/Traps:}
               \begin{itemize}
                 \small
                 \item Intrinsische Oxiddefekte (Oxygen Vacancies, E'-Center)
-                \item Fangen bevorzugt Löcher $\Rightarrow$ positive Oxidladung
+                \item Fangen bevorzugt Löcher \\ $\Rightarrow$ positive Oxidladung
               \end{itemize}
           \end{itemize}
         \end{column}
@@ -345,7 +349,7 @@ Themavergabe und Betreuer: \textbf{Dr. Roman Bergert}}
     \end{frame}
 
     % Frame 8.5: TID-Testquellen & Randbedingungen
-    \begin{frame}[noframenumbering]{TID-Testquellen \& Randbedingungen}
+    \begin{frame}{TID-Testquellen \& Randbedingungen}
       \textbf{Strahlungsquellen:}
       \begin{itemize}
         \item \textbf{Co-60-Gammastrahler} (1.17, 1.33 MeV)
@@ -369,7 +373,7 @@ Themavergabe und Betreuer: \textbf{Dr. Roman Bergert}}
     \end{frame}
 
     % Frame 9.5: Dosisrate, ELDRS & Testablauf
-    \begin{frame}[noframenumbering]{Dosisrate, ELDRS \& Testablauf}
+    \begin{frame}{Dosisrate, ELDRS \& Testablauf}
       \textbf{Dosisrate:}
       \begin{itemize}
         \item Einfluss auf Defektkinetik und Trapping
@@ -393,8 +397,7 @@ Themavergabe und Betreuer: \textbf{Dr. Roman Bergert}}
     \end{frame}
 
     % Frame 10: Kernaussagen & Ausblick
-    \section{Kernaussagen}
-    \begin{frame}{Kernaussageen}
+    \begin{frame}{Kernaussagen}
       \begin{columns}[T,totalwidth=\textwidth]
         \begin{column}{0.55\textwidth}
           \textbf{Zusammenfassung:}
@@ -436,7 +439,7 @@ Themavergabe und Betreuer: \textbf{Dr. Roman Bergert}}
     \end{frame}
 
  % Q&A Folie
-   \begin{frame}[noframenumbering]{Q \& A}
+   \begin{frame}<handout:0>[noframenumbering]{Q \& A}
       \textbf{Mögliche Diskussionspunkte:}
       \begin{itemize}
         \item Unterschiede \textbf{TID vs. DDD vs. SEE}
@@ -450,7 +453,6 @@ Themavergabe und Betreuer: \textbf{Dr. Roman Bergert}}
     \end{frame}
 
     % Bibliography    
-    \section{Literaturverzeichnis}
   \begin{frame}[allowframebreaks, noframenumbering, plain]{Literaturverzeichnis}
     % \nocite{*}
     \printbibliography
