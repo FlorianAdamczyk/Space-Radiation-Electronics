@@ -19,6 +19,173 @@
 
 \refsection{0}
   \datalist[entry]{nyt/global//global/global/global}
+    \entry{atomicarchive_fishbowl_1962}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7eac5eb1950282f3afa95fc7bd56a925}{%
+           family={{Atomic Archive}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{7eac5eb1950282f3afa95fc7bd56a925}
+      \strng{fullhash}{7eac5eb1950282f3afa95fc7bd56a925}
+      \strng{fullhashraw}{7eac5eb1950282f3afa95fc7bd56a925}
+      \strng{bibnamehash}{7eac5eb1950282f3afa95fc7bd56a925}
+      \strng{authorbibnamehash}{7eac5eb1950282f3afa95fc7bd56a925}
+      \strng{authornamehash}{7eac5eb1950282f3afa95fc7bd56a925}
+      \strng{authorfullhash}{7eac5eb1950282f3afa95fc7bd56a925}
+      \strng{authorfullhashraw}{7eac5eb1950282f3afa95fc7bd56a925}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{AtomicArchive.com}
+      \field{note}{Yield: 1.4 Megatons; Location: Johnston Island area — high altitude (tens of miles); Event date: July 9, 1962. Accessed 2025-11-27}
+      \field{title}{Operation Fishbowl | Starfish Prime (1962)}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.atomicarchive.com/media/photographs/testing/us/fishbowl/fishbowl-8.html
+      \endverb
+      \verb{url}
+      \verb https://www.atomicarchive.com/media/photographs/testing/us/fishbowl/fishbowl-8.html
+      \endverb
+    \endentry
+    \entry{bbc_2024_first_live_telstar}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a61d00661142b2d5c6ab4e7fcf6d13c6}{%
+           family={{BBC}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{a61d00661142b2d5c6ab4e7fcf6d13c6}
+      \strng{fullhash}{a61d00661142b2d5c6ab4e7fcf6d13c6}
+      \strng{fullhashraw}{a61d00661142b2d5c6ab4e7fcf6d13c6}
+      \strng{bibnamehash}{a61d00661142b2d5c6ab4e7fcf6d13c6}
+      \strng{authorbibnamehash}{a61d00661142b2d5c6ab4e7fcf6d13c6}
+      \strng{authornamehash}{a61d00661142b2d5c6ab4e7fcf6d13c6}
+      \strng{authorfullhash}{a61d00661142b2d5c6ab4e7fcf6d13c6}
+      \strng{authorfullhashraw}{a61d00661142b2d5c6ab4e7fcf6d13c6}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{BBC.com}
+      \field{note}{Accessed 2025-11-28}
+      \field{title}{First Live Television Transmission from the US via Telstar Satellite}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.bbc.com/historyofthebbc/anniversaries/july/telstar-satellite
+      \endverb
+      \verb{url}
+      \verb https://www.bbc.com/historyofthebbc/anniversaries/july/telstar-satellite
+      \endverb
+    \endentry
+    \entry{booyabazooka_van_allen_1715297}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c8421de04061b867eab080529120efbf}{%
+           family={{Booyabazooka}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{c8421de04061b867eab080529120efbf}
+      \strng{fullhash}{c8421de04061b867eab080529120efbf}
+      \strng{fullhashraw}{c8421de04061b867eab080529120efbf}
+      \strng{bibnamehash}{c8421de04061b867eab080529120efbf}
+      \strng{authorbibnamehash}{c8421de04061b867eab080529120efbf}
+      \strng{authornamehash}{c8421de04061b867eab080529120efbf}
+      \strng{authorfullhash}{c8421de04061b867eab080529120efbf}
+      \strng{authorfullhashraw}{c8421de04061b867eab080529120efbf}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Wikimedia Commons}
+      \field{note}{By Booyabazooka at English Wikipedia - Transferred from en.wikipedia to Commons. Public domain. Accessed 2025-11-27}
+      \field{title}{A cross section of Van Allen radiation belts}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://commons.wikimedia.org/w/index.php?curid=1715297
+      \endverb
+      \verb{url}
+      \verb https://commons.wikimedia.org/w/index.php?curid=1715297
+      \endverb
+    \endentry
+    \entry{calebnstxl_2022_strengthening_reliability}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=01da56453e8701f8238f89a4b1e08067}{%
+           family={{calebnstxl}},
+           familyi={c\bibinitperiod}}}%
+      }
+      \strng{namehash}{01da56453e8701f8238f89a4b1e08067}
+      \strng{fullhash}{01da56453e8701f8238f89a4b1e08067}
+      \strng{fullhashraw}{01da56453e8701f8238f89a4b1e08067}
+      \strng{bibnamehash}{01da56453e8701f8238f89a4b1e08067}
+      \strng{authorbibnamehash}{01da56453e8701f8238f89a4b1e08067}
+      \strng{authornamehash}{01da56453e8701f8238f89a4b1e08067}
+      \strng{authorfullhash}{01da56453e8701f8238f89a4b1e08067}
+      \strng{authorfullhashraw}{01da56453e8701f8238f89a4b1e08067}
+      \field{sortinit}{c}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{NSTXL}
+      \field{month}{3}
+      \field{note}{Accessed 2025-11-28}
+      \field{title}{Strengthening Electronic Reliability through Radiation Hardening - NSTXL}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://nstxl.org/reliability-through-radiation-hardening/
+      \endverb
+      \verb{url}
+      \verb https://nstxl.org/reliability-through-radiation-hardening/
+      \endverb
+    \endentry
+    \entry{calligaro_gatti_2018_rad-hard}{book}{}{}
+      \name{editor}{2}{}{%
+        {{un=0,uniquepart=base,hash=70642cf7d08acead9754d49bb6713e9b}{%
+           family={Calligaro},
+           familyi={C\bibinitperiod},
+           given={Cristiano},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d1b26e573845482b092dce631dc3d849}{%
+           family={Gatti},
+           familyi={G\bibinitperiod},
+           given={Umberto},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Gistrup, Denmark}%
+      }
+      \list{publisher}{1}{%
+        {River Publishers / ProQuest}%
+      }
+      \strng{namehash}{6f1d7bdf0b3b0de711700263a875d553}
+      \strng{fullhash}{6f1d7bdf0b3b0de711700263a875d553}
+      \strng{fullhashraw}{6f1d7bdf0b3b0de711700263a875d553}
+      \strng{bibnamehash}{6f1d7bdf0b3b0de711700263a875d553}
+      \strng{editorbibnamehash}{6f1d7bdf0b3b0de711700263a875d553}
+      \strng{editornamehash}{6f1d7bdf0b3b0de711700263a875d553}
+      \strng{editorfullhash}{6f1d7bdf0b3b0de711700263a875d553}
+      \strng{editorfullhashraw}{6f1d7bdf0b3b0de711700263a875d553}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9788770220200}
+      \field{month}{11}
+      \field{note}{Available: November 2018}
+      \field{series}{River Publishers Series in Electronic Materials and Devices}
+      \field{title}{Rad-hard semiconductor memories}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
     \entry{esa_radiation_rangers_2024}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=57d92d5ce4e41245852acdf1a31ff3b3}{%
@@ -33,6 +200,7 @@
       \strng{authornamehash}{57d92d5ce4e41245852acdf1a31ff3b3}
       \strng{authorfullhash}{57d92d5ce4e41245852acdf1a31ff3b3}
       \strng{authorfullhashraw}{57d92d5ce4e41245852acdf1a31ff3b3}
+      \field{extraname}{1}
       \field{sortinit}{E}
       \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
       \field{extradatescope}{labelyear}
@@ -49,6 +217,604 @@
       \endverb
       \verb{url}
       \verb https://blogs.esa.int/orion/2024/12/04/radiation-rangers-what-two-mannequins-learned-on-artemis-i/
+      \endverb
+    \endentry
+    \entry{esa_saa_2025}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=57d92d5ce4e41245852acdf1a31ff3b3}{%
+           family={{European Space Agency (ESA)}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{57d92d5ce4e41245852acdf1a31ff3b3}
+      \strng{fullhash}{57d92d5ce4e41245852acdf1a31ff3b3}
+      \strng{fullhashraw}{57d92d5ce4e41245852acdf1a31ff3b3}
+      \strng{bibnamehash}{57d92d5ce4e41245852acdf1a31ff3b3}
+      \strng{authorbibnamehash}{57d92d5ce4e41245852acdf1a31ff3b3}
+      \strng{authornamehash}{57d92d5ce4e41245852acdf1a31ff3b3}
+      \strng{authorfullhash}{57d92d5ce4e41245852acdf1a31ff3b3}
+      \strng{authorfullhashraw}{57d92d5ce4e41245852acdf1a31ff3b3}
+      \field{extraname}{2}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{ESA.int / ESA Multimedia - Images}
+      \field{month}{10}
+      \field{note}{Credit: ESA (Data source: Finlay, C.C. et al., 2025). Licence: ESA Standard Licence. Accessed 2025-11-28}
+      \field{title}{{South Atlantic Anomaly 2025 Compared to 2014}}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.esa.int/ESA_Multimedia/Images/2025/10/South_Atlantic_Anomaly_2025_compared_to_2014
+      \endverb
+      \verb{url}
+      \verb https://www.esa.int/ESA_Multimedia/Images/2025/10/South_Atlantic_Anomaly_2025_compared_to_2014
+      \endverb
+    \endentry
+    \entry{10843774}{article}{}{}
+      \name{author}{28}{}{%
+        {{un=0,uniquepart=base,hash=14bb18eccd1d9a769c58c76e8be1b38a}{%
+           family={García\bibnamedelima Alía},
+           familyi={G\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Rubén},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a916a9a41949c5a2ea0f10d2507b5abc}{%
+           family={Waets},
+           familyi={W\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3711fc619a6044ef7f2e5ced09fc6bab}{%
+           family={Coronetti},
+           familyi={C\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fcfa92f6db555f9c92fcc1878d50eed9}{%
+           family={Bilko},
+           familyi={B\bibinitperiod},
+           given={Kacper},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=445b050f90e69af2255c1aa8426d53ff}{%
+           family={Delrieux},
+           familyi={D\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=941f50b01b98e1945c3aa6c1dc8a1d27}{%
+           family={Emriskova},
+           familyi={E\bibinitperiod},
+           given={Natalia},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=adf0844d413b5d70513735e33b57e086}{%
+           family={Esposito},
+           familyi={E\bibinitperiod},
+           given={Luigi},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a6993cf2ac32d49c334e1d7f90f5aeed}{%
+           family={Fraser},
+           familyi={F\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=098b413eacde391d96050df1a2317f80}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Eliott},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=416d9664d158bfc8cb126cf8d34a06ce}{%
+           family={Klimek},
+           familyi={K\bibinitperiod},
+           given={Karolina},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=72a7021ab336eb90cffbaf15e30fa555}{%
+           family={Lucsanyi},
+           familyi={L\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b17382c1a3a65dc968c1424486b1daca}{%
+           family={Prelipcean},
+           familyi={P\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=21a46ef73ef83323c600f2764a76835b}{%
+           family={Sacristán\bibnamedelima Barbero},
+           familyi={S\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Mario},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4c80d24a107622dd4ceab7d4eb35e3da}{%
+           family={Söderström},
+           familyi={S\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8ef8c5c761d832154626f779a29db6d1}{%
+           family={Danzeca},
+           familyi={D\bibinitperiod},
+           given={Salvatore},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=98d7308c46b58a5b3be8f38cd71e83f7}{%
+           family={Ravotti},
+           familyi={R\bibinitperiod},
+           given={Federico},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=82bc891762d81a382fcddb70cea8855f}{%
+           family={Gilardoni},
+           familyi={G\bibinitperiod},
+           given={Simone},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1ca57e2973d6f117dfa6fed746139c27}{%
+           family={Cerutti},
+           familyi={C\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=74b04389a5bf2f1e4c61a755c8c1c793}{%
+           family={Durante},
+           familyi={D\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=92fefff3252e24f94a5c415b58899e6e}{%
+           family={Schuy},
+           familyi={S\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3697b4cc607a3d9b4421a4b3083adbe7}{%
+           family={Wagner},
+           familyi={W\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=def9ccfbbcf134db9306516d3fb05cd8}{%
+           family={Weber},
+           familyi={W\bibinitperiod},
+           given={Ulrich},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=77486a1de9d0f1b4b2bb8c58687af9b0}{%
+           family={Bagatin},
+           familyi={B\bibinitperiod},
+           given={Marta},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2e5e7f104e4939e1225e9868252c79b2}{%
+           family={Gerardin},
+           familyi={G\bibinitperiod},
+           given={Simone},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8c17d737a1127d4c2fa2dddf9963f4b0}{%
+           family={Francola},
+           familyi={F\bibinitperiod},
+           given={Stefano},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=849fba620f3adb00bc30d8e983c3ec4f}{%
+           family={Mancini},
+           familyi={M\bibinitperiod},
+           given={Roberta},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=408b38238be6f9aa47e24ea8da39efcb}{%
+           family={Mangeret},
+           familyi={M\bibinitperiod},
+           given={Renaud},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ba591a8baa0dd6fdf025a79263ffdfb5}{%
+           family={Rostewitz},
+           familyi={R\bibinitperiod},
+           given={Mirko},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2952a3cdbb6dc417a8942548cfd374ee}
+      \strng{fullhash}{7746c0ea95f6e7cf4a129552a9994d2c}
+      \strng{fullhashraw}{7746c0ea95f6e7cf4a129552a9994d2c}
+      \strng{bibnamehash}{2952a3cdbb6dc417a8942548cfd374ee}
+      \strng{authorbibnamehash}{2952a3cdbb6dc417a8942548cfd374ee}
+      \strng{authornamehash}{2952a3cdbb6dc417a8942548cfd374ee}
+      \strng{authorfullhash}{7746c0ea95f6e7cf4a129552a9994d2c}
+      \strng{authorfullhashraw}{7746c0ea95f6e7cf4a129552a9994d2c}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We perform single-event effect (SEE) tests with well-characterized fully fragmented (i.e., beyond Bragg peak) high-energy heavy-ion beams and compare the results with those expected from conventional, mono-linear energy transfer (mono-LET) measurements, showing a satisfactory level of agreement between the two. This compliance paves the way for the exploitation of simulation tools for accurately quantifying the ion fragmentation impact on SEE rates for both ground-level testing conditions and space galactic cosmic-ray (GCR) environments, with electronics operating behind significant thicknesses of shielding. The satisfactory agreement level is also encouraging in view of the possible usage of fragmented heavy-ion beams for ground-level SEE testing of electronics.}
+      \field{issn}{1558-1578}
+      \field{journaltitle}{IEEE Transactions on Nuclear Science}
+      \field{month}{4}
+      \field{number}{4}
+      \field{title}{The HEARTS EU Project and Its Initial Results on Fragmented High-Energy Heavy-Ion Single-Event Effects Testing}
+      \field{volume}{72}
+      \field{year}{2025}
+      \field{pages}{1040\bibrangedash 1049}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1109/TNS.2025.3530502
+      \endverb
+      \keyw{Ions;Testing;Accuracy;Radiation effects;Ion beams;Heart;Single event upsets;Europe;Aerospace electronics;Particle beam measurements;CERN;electronics testing;high-energy heavy ions;Monte Carlo simulations;nuclear reactions;single-event effect (SEE);single-event upset (SEU)}
+    \endentry
+    \entry{delta_rocket_telstar1_46898}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ffaddb909ecbd12e929ee4870241b97a}{%
+           family={{Gemeinfrei}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{ffaddb909ecbd12e929ee4870241b97a}
+      \strng{fullhash}{ffaddb909ecbd12e929ee4870241b97a}
+      \strng{fullhashraw}{ffaddb909ecbd12e929ee4870241b97a}
+      \strng{bibnamehash}{ffaddb909ecbd12e929ee4870241b97a}
+      \strng{authorbibnamehash}{ffaddb909ecbd12e929ee4870241b97a}
+      \strng{authornamehash}{ffaddb909ecbd12e929ee4870241b97a}
+      \strng{authorfullhash}{ffaddb909ecbd12e929ee4870241b97a}
+      \strng{authorfullhashraw}{ffaddb909ecbd12e929ee4870241b97a}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Wikimedia Commons}
+      \field{note}{Public domain. Accessed 2025-11-27}
+      \field{title}{Datei:Delta Rocket Telstar1.jpg}
+      \verb{urlraw}
+      \verb https://commons.wikimedia.org/w/index.php?curid=46898
+      \endverb
+      \verb{url}
+      \verb https://commons.wikimedia.org/w/index.php?curid=46898
+      \endverb
+    \endentry
+    \entry{hearts_challenges_2025}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d52d2d4c0b7218c48897d2e69e156ba4}{%
+           family={{HEARTS}},
+           familyi={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{d52d2d4c0b7218c48897d2e69e156ba4}
+      \strng{fullhash}{d52d2d4c0b7218c48897d2e69e156ba4}
+      \strng{fullhashraw}{d52d2d4c0b7218c48897d2e69e156ba4}
+      \strng{bibnamehash}{d52d2d4c0b7218c48897d2e69e156ba4}
+      \strng{authorbibnamehash}{d52d2d4c0b7218c48897d2e69e156ba4}
+      \strng{authornamehash}{d52d2d4c0b7218c48897d2e69e156ba4}
+      \strng{authorfullhash}{d52d2d4c0b7218c48897d2e69e156ba4}
+      \strng{authorfullhashraw}{d52d2d4c0b7218c48897d2e69e156ba4}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{HEARTS Project}
+      \field{note}{Accessed 2025-11-28}
+      \field{title}{Challenges}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://hearts-project.eu/challenges/space-radiation-environment/
+      \endverb
+      \verb{url}
+      \verb https://hearts-project.eu/challenges/space-radiation-environment/
+      \endverb
+    \endentry
+    \entry{7776909}{article}{}{}
+      \name{author}{17}{}{%
+        {{un=1,uniquepart=given,hash=bc8aa9b5888594a5a5e8a574e30d1b64}{%
+           family={King},
+           familyi={K\bibinitperiod},
+           given={M.\bibnamedelimi P.},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=9113b5835843309fa06504ea7ee28c1d}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f8ca4e7ee03e7c1a1049f9dbfd247b2d}{%
+           family={Eller},
+           familyi={E\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=23711b39db566517ef92bf59f95ab12d}{%
+           family={Samavedam},
+           familyi={S\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f9e168cc9b2916da3794bd801f398d2b}{%
+           family={Shaneyfelt},
+           familyi={S\bibinitperiod},
+           given={M.\bibnamedelimi R.},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e7103277d7f2cee1ea04e2dda2a6d7f8}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={A.\bibnamedelimi I.},
+           giveni={A\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5bec93e1caa9edb71fc91c52dcd731de}{%
+           family={Draper},
+           familyi={D\bibinitperiod},
+           given={B.\bibnamedelimi L.},
+           giveni={B\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5c27b91f3fa9dddb5e8a7e5685112260}{%
+           family={Rice},
+           familyi={R\bibinitperiod},
+           given={W.\bibnamedelimi C.},
+           giveni={W\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3730a2f97bc00acf7b76ee291230696c}{%
+           family={Meisenheimer},
+           familyi={M\bibinitperiod},
+           given={T.\bibnamedelimi L.},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0f236bd7c33ab0b49923bf5199f1cf08}{%
+           family={Felix},
+           familyi={F\bibinitperiod},
+           given={J.\bibnamedelimi A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=23097f0e53209e2cae41602c8866d556}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={E.\bibnamedelimi X.},
+           giveni={E\bibinitperiod\bibinitdelim X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0f14fcd022a9ea32e0cacb63c4cbc5d5}{%
+           family={Haeffner},
+           familyi={H\bibinitperiod},
+           given={T.\bibnamedelimi D.},
+           giveni={T\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=926c03fd65ebc5398f23ff4e51cb8d95}{%
+           family={Ball},
+           familyi={B\bibinitperiod},
+           given={D.\bibnamedelimi R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=75f4141de00eb6432dc050ba0a121ba8}{%
+           family={Shetler},
+           familyi={S\bibinitperiod},
+           given={K.\bibnamedelimi J.},
+           giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=33652ace4d492da1da26b5d6fed2e292}{%
+           family={Alles},
+           familyi={A\bibinitperiod},
+           given={M.\bibnamedelimi L.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3d10c4ece511622e270c4fa6969715a8}{%
+           family={Kauppila},
+           familyi={K\bibinitperiod},
+           given={J.\bibnamedelimi S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2e4a6b693bb9880a1ba0c2881834439a}{%
+           family={Massengill},
+           familyi={M\bibinitperiod},
+           given={L.\bibnamedelimi W.},
+           giveni={L\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9d7328a7491be942f6ea75fb4ef98870}
+      \strng{fullhash}{d37fd421483d301d5997c86aad42acad}
+      \strng{fullhashraw}{d37fd421483d301d5997c86aad42acad}
+      \strng{bibnamehash}{9d7328a7491be942f6ea75fb4ef98870}
+      \strng{authorbibnamehash}{9d7328a7491be942f6ea75fb4ef98870}
+      \strng{authornamehash}{9d7328a7491be942f6ea75fb4ef98870}
+      \strng{authorfullhash}{d37fd421483d301d5997c86aad42acad}
+      \strng{authorfullhashraw}{d37fd421483d301d5997c86aad42acad}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Nuclear Science}
+      \field{number}{1}
+      \field{title}{Analysis of TID Process, Geometry, and Bias Condition Dependence in 14-nm FinFETs and Implications for RF and SRAM Performance}
+      \field{volume}{64}
+      \field{year}{2017}
+      \field{pages}{285\bibrangedash 292}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1109/TNS.2016.2634538
+      \endverb
+      \keyw{FinFETs;Radiation effects;Leakage currents;Threshold voltage;MOSFET circuits;Logic gates;FinFET;leakage current;threshold voltage shift;total ionizing dose}
+    \endentry
+    \entry{van-allen_2020_radiation_analysis_moon_mars}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9de752bc3855928956bb83e52080279c}{%
+           family={Märki},
+           familyi={M\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9de752bc3855928956bb83e52080279c}
+      \strng{fullhash}{9de752bc3855928956bb83e52080279c}
+      \strng{fullhashraw}{9de752bc3855928956bb83e52080279c}
+      \strng{bibnamehash}{9de752bc3855928956bb83e52080279c}
+      \strng{authorbibnamehash}{9de752bc3855928956bb83e52080279c}
+      \strng{authornamehash}{9de752bc3855928956bb83e52080279c}
+      \strng{authorfullhash}{9de752bc3855928956bb83e52080279c}
+      \strng{authorfullhashraw}{9de752bc3855928956bb83e52080279c}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Astrophysics and Space Science}
+      \field{month}{11}
+      \field{title}{Radiation Analysis for Moon and Mars Missions}
+      \field{volume}{8}
+      \field{year}{2020}
+      \true{nocite}
+      \field{pages}{16\bibrangedash 26}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.11648/j.ijass.20200803.11
+      \endverb
+    \endentry
+    \entry{salzburgernachrichten_2022_telstar}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9c2ec9aee270fba91059ec32fce61233}{%
+           family={{Salzburger Nachrichten}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c2ec9aee270fba91059ec32fce61233}
+      \strng{fullhash}{9c2ec9aee270fba91059ec32fce61233}
+      \strng{fullhashraw}{9c2ec9aee270fba91059ec32fce61233}
+      \strng{bibnamehash}{9c2ec9aee270fba91059ec32fce61233}
+      \strng{authorbibnamehash}{9c2ec9aee270fba91059ec32fce61233}
+      \strng{authornamehash}{9c2ec9aee270fba91059ec32fce61233}
+      \strng{authorfullhash}{9c2ec9aee270fba91059ec32fce61233}
+      \strng{authorfullhashraw}{9c2ec9aee270fba91059ec32fce61233}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Salzburger Nachrichten}
+      \field{month}{7}
+      \field{note}{Accessed 2025-11-27}
+      \field{title}{Vor 60 Jahren flog der erste US-Satellit in das All}
+      \field{year}{2022}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.sn.at/panorama/wissen/vor-60-jahren-flog-der-erste-us-satellit-in-das-all-124799707
+      \endverb
+      \verb{url}
+      \verb https://www.sn.at/panorama/wissen/vor-60-jahren-flog-der-erste-us-satellit-in-das-all-124799707
+      \endverb
+    \endentry
+    \entry{Sanchez_Esqueda_2015_compact_modeling_TID}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=01ec535565faa88b4825de124de9bce8}{%
+           family={Sanchez\bibnamedelima Esqueda},
+           familyi={S\bibinitperiod\bibinitdelim E\bibinitperiod},
+           given={Ivan},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fec94b8840300c51072336df7c56ee30}{%
+           family={Barnaby},
+           familyi={B\bibinitperiod},
+           given={H.J.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=1849efce326110da610e626b64ee9d81}{%
+           family={King},
+           familyi={K\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{dce1f9f44f5db93bee1977070e0db323}
+      \strng{fullhash}{dce1f9f44f5db93bee1977070e0db323}
+      \strng{fullhashraw}{dce1f9f44f5db93bee1977070e0db323}
+      \strng{bibnamehash}{dce1f9f44f5db93bee1977070e0db323}
+      \strng{authorbibnamehash}{dce1f9f44f5db93bee1977070e0db323}
+      \strng{authornamehash}{dce1f9f44f5db93bee1977070e0db323}
+      \strng{authorfullhash}{dce1f9f44f5db93bee1977070e0db323}
+      \strng{authorfullhashraw}{dce1f9f44f5db93bee1977070e0db323}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Nuclear Science}
+      \field{month}{06}
+      \field{title}{Compact Modeling of Total Ionizing Dose and Aging Effects in MOS Technologies}
+      \field{volume}{62}
+      \field{year}{2015}
+      \verb{doi}
+      \verb 10.1109/TNS.2015.2414426
+      \endverb
+    \endentry
+    \entry{adobe_174965630_2025}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=43c99762c6a1e442b6de54ecc4651f60}{%
+           family={{SN/GFDUNT (Adobe Stock)}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{43c99762c6a1e442b6de54ecc4651f60}
+      \strng{fullhash}{43c99762c6a1e442b6de54ecc4651f60}
+      \strng{fullhashraw}{43c99762c6a1e442b6de54ecc4651f60}
+      \strng{bibnamehash}{43c99762c6a1e442b6de54ecc4651f60}
+      \strng{authorbibnamehash}{43c99762c6a1e442b6de54ecc4651f60}
+      \strng{authornamehash}{43c99762c6a1e442b6de54ecc4651f60}
+      \strng{authorfullhash}{43c99762c6a1e442b6de54ecc4651f60}
+      \strng{authorfullhashraw}{43c99762c6a1e442b6de54ecc4651f60}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Adobe Stock (Stock-Illustration)}
+      \field{note}{File no.: 174965630. Accessed 2025-11-27}
+      \field{title}{Telstar 1 - the World's First Transatlantic Broadcast Satellite, Launched in 1962}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://stock.adobe.com/de/images/telstar-1-the-world-s-first-transatlantic-broadcast-satellite-launched-in-1962/174965630?prev_url=detail
+      \endverb
+      \verb{url}
+      \verb https://stock.adobe.com/de/images/telstar-1-the-world-s-first-transatlantic-broadcast-satellite-launched-in-1962/174965630?prev_url=detail
+      \endverb
+    \endentry
+    \entry{triumf_radiation_environments_2021}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7cf119cc9d816a04220eb2e09ec329e1}{%
+           family={{TRIUMF}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{7cf119cc9d816a04220eb2e09ec329e1}
+      \strng{fullhash}{7cf119cc9d816a04220eb2e09ec329e1}
+      \strng{fullhashraw}{7cf119cc9d816a04220eb2e09ec329e1}
+      \strng{bibnamehash}{7cf119cc9d816a04220eb2e09ec329e1}
+      \strng{authorbibnamehash}{7cf119cc9d816a04220eb2e09ec329e1}
+      \strng{authornamehash}{7cf119cc9d816a04220eb2e09ec329e1}
+      \strng{authorfullhash}{7cf119cc9d816a04220eb2e09ec329e1}
+      \strng{authorfullhashraw}{7cf119cc9d816a04220eb2e09ec329e1}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Triumf.ca}
+      \field{note}{Accessed 2025-11-28}
+      \field{title}{Radiation Environments}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://radenv.triumf.ca/
+      \endverb
+      \verb{url}
+      \verb https://radenv.triumf.ca/
       \endverb
     \endentry
   \enddatalist
