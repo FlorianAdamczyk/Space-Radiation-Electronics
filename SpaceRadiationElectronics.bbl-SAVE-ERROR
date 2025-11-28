@@ -81,36 +81,6 @@
       \verb https://www.bbc.com/historyofthebbc/anniversaries/july/telstar-satellite
       \endverb
     \endentry
-    \entry{booyabazooka_van_allen_1715297}{misc}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=c8421de04061b867eab080529120efbf}{%
-           family={{Booyabazooka}},
-           familyi={B\bibinitperiod}}}%
-      }
-      \strng{namehash}{c8421de04061b867eab080529120efbf}
-      \strng{fullhash}{c8421de04061b867eab080529120efbf}
-      \strng{fullhashraw}{c8421de04061b867eab080529120efbf}
-      \strng{bibnamehash}{c8421de04061b867eab080529120efbf}
-      \strng{authorbibnamehash}{c8421de04061b867eab080529120efbf}
-      \strng{authornamehash}{c8421de04061b867eab080529120efbf}
-      \strng{authorfullhash}{c8421de04061b867eab080529120efbf}
-      \strng{authorfullhashraw}{c8421de04061b867eab080529120efbf}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{labeldatesource}{nodate}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{Wikimedia Commons}
-      \field{note}{By Booyabazooka at English Wikipedia - Transferred from en.wikipedia to Commons. Public domain. Accessed 2025-11-27}
-      \field{title}{A cross section of Van Allen radiation belts}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://commons.wikimedia.org/w/index.php?curid=1715297
-      \endverb
-      \verb{url}
-      \verb https://commons.wikimedia.org/w/index.php?curid=1715297
-      \endverb
-    \endentry
     \entry{calebnstxl_2022_strengthening_reliability}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=01da56453e8701f8238f89a4b1e08067}{%
@@ -142,49 +112,6 @@
       \verb{url}
       \verb https://nstxl.org/reliability-through-radiation-hardening/
       \endverb
-    \endentry
-    \entry{calligaro_gatti_2018_rad-hard}{book}{}{}
-      \name{editor}{2}{}{%
-        {{un=0,uniquepart=base,hash=70642cf7d08acead9754d49bb6713e9b}{%
-           family={Calligaro},
-           familyi={C\bibinitperiod},
-           given={Cristiano},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=d1b26e573845482b092dce631dc3d849}{%
-           family={Gatti},
-           familyi={G\bibinitperiod},
-           given={Umberto},
-           giveni={U\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Gistrup, Denmark}%
-      }
-      \list{publisher}{1}{%
-        {River Publishers / ProQuest}%
-      }
-      \strng{namehash}{6f1d7bdf0b3b0de711700263a875d553}
-      \strng{fullhash}{6f1d7bdf0b3b0de711700263a875d553}
-      \strng{fullhashraw}{6f1d7bdf0b3b0de711700263a875d553}
-      \strng{bibnamehash}{6f1d7bdf0b3b0de711700263a875d553}
-      \strng{editorbibnamehash}{6f1d7bdf0b3b0de711700263a875d553}
-      \strng{editornamehash}{6f1d7bdf0b3b0de711700263a875d553}
-      \strng{editorfullhash}{6f1d7bdf0b3b0de711700263a875d553}
-      \strng{editorfullhashraw}{6f1d7bdf0b3b0de711700263a875d553}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{editor}
-      \field{labeltitlesource}{title}
-      \field{isbn}{9788770220200}
-      \field{month}{11}
-      \field{note}{Available: November 2018}
-      \field{series}{River Publishers Series in Electronic Materials and Devices}
-      \field{title}{Rad-hard semiconductor memories}
-      \field{year}{2018}
-      \true{nocite}
     \endentry
     \entry{esa_radiation_rangers_2024}{misc}{}{}
       \name{author}{1}{}{%
@@ -642,74 +569,6 @@
       \verb 10.1109/TNS.2016.2634538
       \endverb
       \keyw{FinFETs;Radiation effects;Leakage currents;Threshold voltage;MOSFET circuits;Logic gates;FinFET;leakage current;threshold voltage shift;total ionizing dose}
-    \endentry
-    \entry{van-allen_2020_radiation_analysis_moon_mars}{article}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=9de752bc3855928956bb83e52080279c}{%
-           family={Märki},
-           familyi={M\bibinitperiod},
-           given={Andreas},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{9de752bc3855928956bb83e52080279c}
-      \strng{fullhash}{9de752bc3855928956bb83e52080279c}
-      \strng{fullhashraw}{9de752bc3855928956bb83e52080279c}
-      \strng{bibnamehash}{9de752bc3855928956bb83e52080279c}
-      \strng{authorbibnamehash}{9de752bc3855928956bb83e52080279c}
-      \strng{authornamehash}{9de752bc3855928956bb83e52080279c}
-      \strng{authorfullhash}{9de752bc3855928956bb83e52080279c}
-      \strng{authorfullhashraw}{9de752bc3855928956bb83e52080279c}
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{International Journal of Astrophysics and Space Science}
-      \field{month}{11}
-      \field{title}{Radiation Analysis for Moon and Mars Missions}
-      \field{volume}{8}
-      \field{year}{2020}
-      \true{nocite}
-      \field{pages}{16\bibrangedash 26}
-      \range{pages}{11}
-      \verb{doi}
-      \verb 10.11648/j.ijass.20200803.11
-      \endverb
-    \endentry
-    \entry{salzburgernachrichten_2022_telstar}{misc}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=9c2ec9aee270fba91059ec32fce61233}{%
-           family={{Salzburger Nachrichten}},
-           familyi={S\bibinitperiod}}}%
-      }
-      \strng{namehash}{9c2ec9aee270fba91059ec32fce61233}
-      \strng{fullhash}{9c2ec9aee270fba91059ec32fce61233}
-      \strng{fullhashraw}{9c2ec9aee270fba91059ec32fce61233}
-      \strng{bibnamehash}{9c2ec9aee270fba91059ec32fce61233}
-      \strng{authorbibnamehash}{9c2ec9aee270fba91059ec32fce61233}
-      \strng{authornamehash}{9c2ec9aee270fba91059ec32fce61233}
-      \strng{authorfullhash}{9c2ec9aee270fba91059ec32fce61233}
-      \strng{authorfullhashraw}{9c2ec9aee270fba91059ec32fce61233}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{Salzburger Nachrichten}
-      \field{month}{7}
-      \field{note}{Accessed 2025-11-27}
-      \field{title}{Vor 60 Jahren flog der erste US-Satellit in das All}
-      \field{year}{2022}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://www.sn.at/panorama/wissen/vor-60-jahren-flog-der-erste-us-satellit-in-das-all-124799707
-      \endverb
-      \verb{url}
-      \verb https://www.sn.at/panorama/wissen/vor-60-jahren-flog-der-erste-us-satellit-in-das-all-124799707
-      \endverb
     \endentry
     \entry{Sanchez_Esqueda_2015_compact_modeling_TID}{article}{}{}
       \name{author}{3}{}{%

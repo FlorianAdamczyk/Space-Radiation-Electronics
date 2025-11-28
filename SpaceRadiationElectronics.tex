@@ -92,7 +92,7 @@ Themavergabe und Betreuer: \textbf{Dr. Roman Bergert}}
 
 \begin{document}
 
-    Black slide, then introduction images:
+    % Black slide, then introduction images:
     \begin{frame}<handout:0>[plain, noframenumbering]
       \begin{tikzpicture}[remember picture, overlay]
         % schwarzer Hintergrund (bleibt hinter den Bildern)
@@ -120,6 +120,8 @@ Themavergabe und Betreuer: \textbf{Dr. Roman Bergert}}
       \note{1962: Der erste Kommunikationssatellit startet am 10. Juli von Cape Canaveral aus und ist ein voller Erfolg. Telstar 1 überträgt die ersten Live-Fernsehbilder zwischen den USA und Europa – die Grenzen der Welt schrumpfen. Doch die Euphorie verfliegt schnell. Bereits im Herbst beginnt der 60-Millionen-Dollar-Gigant, Befehle zu ignorieren. Den Ingenieuren im Kontrollzentrum steht der kalte Schweiß auf der Stirn: Was greift die empfindlichen Schaltkreise an? Manchmal muss ein Befehl dreimal wiederholt werden. Trotz verzweifelter, genialer Wiederbelebungsversuche, die den Satelliten kurz reaktivieren, kommt am 21. Februar 1963 das unvermeidliche Ende: Telstar 1 wird für immer stumm. Totalausfall!}
     \end{frame}
    
+ % Keine automatischen Abschnittsseiten erwünscht
+    \metroset{sectionpage=none}
 
     % Title Slide
     \begin{frame}[noframenumbering, plain]
@@ -127,15 +129,16 @@ Themavergabe und Betreuer: \textbf{Dr. Roman Bergert}}
         \titlepage
         \vspace*{-1.6cm}
     \end{frame}
-    
-    Table of Contents
-    \begin{frame}<handout:0>{Gliederung} % Handout ausgeschaltet!!
-      \setcounter{page}{1}      
-        \tableofcontents
+   
+    %Inhaltsfolie
+    \begin{frame}{Gliederung}
+      \tableofcontents
+      \setcounter{page}{1} % Seitenzähler auf 1 setzen nach Inhaltsfolie
     \end{frame}
-      \note{}
 
     % Frame 2: Einordnung der Strahlungseffekte
+    \section{Grundlagen der Strahlungseffekte}
+    \subsection{Einordnung der Strahlungseffekte}
     \begin{frame}{Einordnung der Strahlungseffekte}
       \vspace{0.3cm}
       \small
@@ -159,14 +162,16 @@ Themavergabe und Betreuer: \textbf{Dr. Roman Bergert}}
     \begin{frame}{Strahlendosen im Vergleich}
       \begin{figure}
         \centering
-        \includegraphics[height=0.9\textheight]{RadEnv.png}\\
+        \includegraphics[height=\textheight]{RadEnv.png}\\[-3mm]
+        \tiny \textcolor{gray} {\citeauthor{triumf_radiation_environments_2021} -- \citetitle{triumf_radiation_environments_2021}}
+      
       \end{figure}
       
-      \tiny \textcolor{gray} {\citeauthor{triumf_radiation_environments_2021} -- \citetitle{triumf_radiation_environments_2021}}
       \note{}   
     \end{frame}
 
     % Frame 3: Strahlungsquellen im Weltraum
+    \subsection{Strahlungsquellen im Weltraum}
     \begin{frame}{Strahlungsquellen im Weltraum}
       \begin{columns}[T,totalwidth=\textwidth]
         \begin{column}{0.5\textwidth}
@@ -194,6 +199,7 @@ Themavergabe und Betreuer: \textbf{Dr. Roman Bergert}}
     \end{frame}
 
     % Frame 4: Van-Allen-Gürtel & SAA als TID-Hotspots
+    \subsection{Van-Allen-Gürtel \& SAA als TID-Hotspots}
     \begin{frame}{Van-Allen-Gürtel \& SAA als TID-Hotspots}
       \begin{columns}[T,totalwidth=\textwidth]
         \begin{column}{0.4\textwidth}
@@ -216,6 +222,8 @@ Themavergabe und Betreuer: \textbf{Dr. Roman Bergert}}
     \end{frame}
 
     % Frame 5: MOS-Querschnitt & Grundprinzip der Ionisation
+    \section{TID-Mechanismus}
+    \subsection{MOS-Querschnitt \& Grundprinzip der Ionisation}
     \begin{frame}{MOS-Querschnitt \& Grundprinzip der Ionisation}
       \begin{columns}[T,totalwidth=\textwidth]
         \begin{column}{0.5\textwidth}
@@ -253,6 +261,7 @@ Themavergabe und Betreuer: \textbf{Dr. Roman Bergert}}
     \end{frame}
 
     % Frame 6: Gesamtwirkung im MOSFET
+    \subsection{Gesamtwirkung im MOSFET}
     \begin{frame}{Gesamtwirkung im MOSFET}
       \begin{columns}[T,totalwidth=\textwidth]
         \begin{column}{0.5\textwidth}
@@ -304,6 +313,8 @@ Themavergabe und Betreuer: \textbf{Dr. Roman Bergert}}
     \end{frame}
 
     % Frame 8: TID-Härtungstests und Qualifikationsverfahren (RHA)
+    \section{Tests \& Qualifikation}
+    \subsection{TID-Härtungstests und Qualifikationsverfahren (RHA)}
     \begin{frame}{TID-Härtungstests und Qualifikationsverfahren (RHA)}
       \begin{columns}[T,totalwidth=\textwidth]
         \begin{column}{0.5\textwidth}
@@ -382,12 +393,13 @@ Themavergabe und Betreuer: \textbf{Dr. Roman Bergert}}
     \end{frame}
 
     % Frame 10: Kernaussagen & Ausblick
-    \begin{frame}{Kernaussagen \& Ausblick}
+    \section{Kernaussagen}
+    \begin{frame}{Kernaussageen}
       \begin{columns}[T,totalwidth=\textwidth]
         \begin{column}{0.55\textwidth}
           \textbf{Zusammenfassung:}
           \begin{itemize}
-            \item \textbf{TID} = kumulative Ionisationsschäden in Oxiden \& Grenzflächen
+            \item \textbf{TID} = kumulative Ionisationsschäden \linebreak in Oxiden \& Grenzflächen
             \item Hauptmechanismus:
               \begin{itemize}
                 \item \textbf{Oxid-trapped charge} (positive Raumladung)
@@ -410,7 +422,7 @@ Themavergabe und Betreuer: \textbf{Dr. Roman Bergert}}
     \end{frame}
 
    
-    Abschluss-Black-Slide zu Starfish Prime
+    % Abschluss-Black-Slide zu Starfish Prime
     \begin{frame}<handout:0>[plain, noframenumbering]
       \begin{tikzpicture}[remember picture, overlay]
         \fill[black] (current page.south west) rectangle (current page.north east);
@@ -424,7 +436,7 @@ Themavergabe und Betreuer: \textbf{Dr. Roman Bergert}}
     \end{frame}
 
  % Q&A Folie
-    \begin{frame}{Q \& A}
+   \begin{frame}[noframenumbering]{Q \& A}
       \textbf{Mögliche Diskussionspunkte:}
       \begin{itemize}
         \item Unterschiede \textbf{TID vs. DDD vs. SEE}
@@ -438,8 +450,9 @@ Themavergabe und Betreuer: \textbf{Dr. Roman Bergert}}
     \end{frame}
 
     % Bibliography    
+    \section{Literaturverzeichnis}
   \begin{frame}[allowframebreaks, noframenumbering, plain]{Literaturverzeichnis}
-    \nocite{*}
+    % \nocite{*}
     \printbibliography
   \end{frame}
 
